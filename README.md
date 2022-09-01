@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have a Masters degree in Computer Science and experience with full stack web developement. I am interested in artificial intelligence and machine learning, explainable AI, and the ethics of employing AI/ML tools.
+I have a Masters degree in Computer Science and experience with full stack web development. I am interested in artificial intelligence and machine learning, explainable AI, and the ethics of employing AI/ML tools.
 
 <!--
 **arusk2/arusk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
